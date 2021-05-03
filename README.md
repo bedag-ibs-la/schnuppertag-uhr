@@ -1,6 +1,6 @@
 # schnuppertag-uhr
 
-Eine einfache Uhr. Erstellt mit p5.js.
+Wir erstellen eine einfache Uhr. Mit p5.js.
 
 ## Links
 
